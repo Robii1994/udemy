@@ -150,3 +150,5 @@ const expense = Object.freeze([
 console.log(expense);
 
 console.log('Welcome test data');
+
+console.log('data');
